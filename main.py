@@ -1,9 +1,3 @@
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-# Press Ctrl+F8 to toggle the breakpoint.
-# Use a breakpoint in the code line below to debug your script.
-import tkinter
-
 from PIL import Image
 from pystray import MenuItem as Item, Menu
 import pystray
